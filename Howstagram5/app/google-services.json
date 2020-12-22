@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361499679679",
+    "project_id": "howstagramf18",
+    "storage_bucket": "howstagramf18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361499679679:android:3c0ef39630e2dae7bf9f0a",
+        "android_client_info": {
+          "package_name": "com.example.howstagram5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361499679679-li1c7h2k2imeg69v0nt7hcv8c9vhjfeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkCgjGe6uMLiuJIs164xVUYG_aEPUqSxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361499679679-li1c7h2k2imeg69v0nt7hcv8c9vhjfeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
